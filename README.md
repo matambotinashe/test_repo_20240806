@@ -1,2 +1,6 @@
-# test_repo_20240806
-This repo is to test initializing project.
+# Test Repo
+
+## Backgroud
+- This repo is to test initializing project within Github
+
+## This project was constructed in vs-code on local machine in a python envrionment called testRepo.
